@@ -16,7 +16,7 @@
 
 ### Ciao, sono Ludovica!
 
-🇮🇹 | Ciao, sono Ludovica. Ho 19 anni e sono una Studentessa di Informatica e Tecnologie per la Produzione del Software di Bari, Italia.
+🇮🇹 | Ciao, sono Ludovica. Ho 19 anni e sono una Studentessa di Informatica e Tecnologie per la Produzione del Software di Bari.
 
 💻 | Conosco: C, C++, Java, SQL, HTML, PHP;
 
