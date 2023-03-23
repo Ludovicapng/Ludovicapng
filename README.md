@@ -10,9 +10,7 @@
 
 🌍 |  My links:
 
-<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=55CCFF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='https://discord.gg/nw8pweBEaU' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=8397FF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='mailto:ludovicapangrazio@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7'/></a>
-
-ludovicapangrazio@gmail.com
+<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=55CCFF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='https://discord.gg/nw8pweBEaU' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=8397FF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='mailto:ludovicapangrazio@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7'/></a> ludovicapangrazio@gmail.com
 
 
 
@@ -28,9 +26,7 @@ ludovicapangrazio@gmail.com
 
 🌍 | Visita i miei link:
 
-<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=55CCFF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='https://discord.gg/nw8pweBEaU' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=8397FF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='mailto:ludovicapangrazio@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7'/></a>
-
-ludovicapangrazio@gmail.com
+<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=55CCFF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='https://discord.gg/nw8pweBEaU' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=8397FF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='mailto:ludovicapangrazio@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7'/></a> ludovicapangrazio@gmail.com
 
 
 
