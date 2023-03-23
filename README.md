@@ -9,7 +9,7 @@
 👾 |  I am interest in Cybersecurity, Ethical Hacking and Information Gathering Techniques (OSINT Framework).
 
 🌍 |  My links:
-<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=3CBEFF&labelColor=FFFFFF&color=F0F0F0'/></a>'</a>
+<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=3CBEFF&labelColor=FFFFFF&color=F0F0F0'/></a>'</a>
 
 
 
