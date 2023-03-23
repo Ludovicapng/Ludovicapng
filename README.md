@@ -31,6 +31,9 @@
 
 
 
+![awdawd](https://user-images.githubusercontent.com/125297085/227323031-bb853791-6284-42bc-8f8d-f11c064141c2.jpg)
+
+
 <!--
 **LudovicaPangrazio/LudovicaPangrazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
