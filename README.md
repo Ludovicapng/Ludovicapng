@@ -1,14 +1,15 @@
 ### Hi there, I'm Ludovica!
 
-🇺🇸 | Hi, I'm Ludovica and I'm a 19 year old CompSci student and Developer from Bari, Italy.
+🇺🇸 |  Hi, I'm Ludovica and I'm a 19 year old CompSci student and Developer from Bari, Italy.
 
-💻 | I am familiar with C, C++, Java, SQL, HTML, PHP;
+💻 |  I am familiar with C, C++, Java, SQL, HTML, PHP;
 
-😊 | Self-taught Singer and Guitarist, Graphic Design & Video Editing enthusiast;
+😊 |  Self-taught Singer and Guitarist, Graphic Design & Video Editing enthusiast;
 
-👾 | I am interest in Cybersecurity, Ethical Hacking and Information Gathering Techniques (OSINT Framework).
+👾 |  I am interest in Cybersecurity, Ethical Hacking and Information Gathering Techniques (OSINT Framework).
 
-🌍 | My links:
+🌍 |  My links:
+<a href='https://www.linkedin.com/in/ludovicapangrazio/' target="_blank"><img alt='LinkedIn' src='<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=3CBEFF&labelColor=FFFFFF&color=F0F0F0'/></a>'</a>
 
 
 
