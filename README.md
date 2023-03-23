@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ludovica!
+
+🇺🇸 | Hi, I'm Ludovica and I'm a 19 year old CompSci student and Developer from Bari, Italy.
+💻 | I am familiar with C, C++, Java, SQL, HTML, PHP;
+😊 | Self-taught Singer and Guitarist, Graphic Design & Video Editing enthusiast;
+👾 | I am interest in Cybersecurity, Ethical Hacking and Information Gathering Techniques (OSINT Framework).
+🌍 | My links: [<img src="![image](https://user-images.githubusercontent.com/125297085/227319252-91467200-1c23-4cf4-8a24-2b7131e64ee3.png)">](https://www.linkedin.com/in/ludovicapangrazio/)
+
+
+🇮🇹 |
 
 <!--
 **LudovicaPangrazio/LudovicaPangrazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
