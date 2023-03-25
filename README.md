@@ -24,7 +24,7 @@ My e-mail: ludovicapangrazio@gmail.com
 
 😊 | Cantante e chitarrista autodidatta, appassionata di Graphic Design e Video Editing;
 
-👾 | Mi interessa la Cybersecurity, l'Ethical Hacking e Tecniche e Tecnologie per l'ottenimento di informazioni (OSINT Framework).
+👾 | Mi interessano la Cybersecurity, l'Ethical Hacking e Tecniche e Tecnologie per l'Information Gathering (OSINT Framework).
 
 🌍 | Visita i miei link:
 
