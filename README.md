@@ -16,9 +16,7 @@
 
 
 
-
-
-![awdawd](https://user-images.githubusercontent.com/125297085/227323031-bb853791-6284-42bc-8f8d-f11c064141c2.jpg)
+![linkedin](https://github.com/LudovicaPangrazio/LudovicaPangrazio/assets/125297085/8680f8d6-84e3-44a2-8c88-0b1114ecedcb)
 
 
 <!--
