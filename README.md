@@ -6,7 +6,9 @@
 
 😊 |  Self-taught Singer and Guitarist, Graphic Design & Video Editing enthusiast;
 
-👾 |  I am interested in Cybersecurity, Ethical Hacking and Information Gathering Techniques (OSINT Framework).
+👾 |  I am interested in Cybersecurity, Ethical Hacking and Information Gathering Techniques (OSINT Framework);
+
+🗣️ |  I speak/understand: Italian (1st language), english (2nd language), spanish.
 
 🌍 |  My links:
 
