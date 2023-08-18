@@ -12,9 +12,13 @@
 
 🌍 |  Contact me:
 
-![Static Badge](https://img.shields.io/badge/My%20Email-white?style=for-the-badge&logo=protonmail&logoColor=%238675A9&link=mailto%3Aludo_sec%40protonmail.com)
-![Static Badge](https://img.shields.io/badge/My%20Discord%20Server-white?style=for-the-badge&logo=discord&logoColor=%238675A9&link=https%3A%2F%2Fdiscord.gg%2FQHPHEgZas7)
+  <a href="mailto:ludo_sec@protonmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/My%20Email-white?style=for-the-badge&logo=protonmail&logoColor=%238675A9"/>
+  </a>
 
+  <a href="https://discord.gg/y5ukgMD6vx">
+    <img alt="Discord" src="https://img.shields.io/badge/My%20Discord%20Server-white?style=for-the-badge&logo=discord&logoColor=%238675A9"/>
+  </a>
 
 
 
