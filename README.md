@@ -10,10 +10,11 @@
 
 🗣️ |  I speak/understand: Italian (1st language), english (2nd language), spanish.
 
-🌍 |  My links:
+🌍 |  Contact me:
 
-<a href='mailto:ludo_sec@protonmail.com' target="_blank"><img alt='My Email' src='[https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7](https://img.shields.io/badge/My%20Email-white?style=for-the-badge&logo=protonmail&logoColor=%238675A9&link=mailto%3Aludo_sec%40protonmail.com
-)'/></a>
+![Static Badge](https://img.shields.io/badge/My%20Email-white?style=for-the-badge&logo=protonmail&logoColor=%238675A9&link=mailto%3Aludo_sec%40protonmail.com)
+![Static Badge](https://img.shields.io/badge/My%20Discord%20Server-white?style=for-the-badge&logo=discord&logoColor=%238675A9&link=https%3A%2F%2Fdiscord.gg%2FQHPHEgZas7)
+
 
 
 
