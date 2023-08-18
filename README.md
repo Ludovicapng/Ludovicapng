@@ -12,7 +12,7 @@
 
 🌍 |  My links:
 
-<a href='https://www.linkedin.com/in/ludovicap/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=55CCFF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='mailto:ludovicapangrazio@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7'/></a>
+<a href='https://www.linkedin.com/in/ludovicap/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=55CCFF&labelColor=FFFFFF&color=F7F7F7'/></a> <a href='mailto:ludo_sec@protonmail.com' target="_blank"><img alt='Email' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FF6554&labelColor=FFFFFF&color=F7F7F7'/></a>
 
 
 
