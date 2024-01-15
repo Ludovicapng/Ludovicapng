@@ -1,6 +1,6 @@
 ### Hi there, I'm Ludovica!
 
-🙋🏻‍♀️ |  Hi, I'm Ludovica and I'm a 19 year old Developer from Italy.
+🙋🏻‍♀️ |  Hi, I'm Ludovica and I'm a 20 year old Developer from Italy.
 
 💻 |  I am familiar with: C, C++, Java, SQL, HTML, PHP;
 
